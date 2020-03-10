@@ -1,0 +1,47 @@
+.ui.fixed.menu.mycss.topmenu {
+  background-color: #f5f5f5;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.centered.image {
+  margin-top: 50px;
+}
+
+#splash {
+  width: 100%;
+}
+
+.ui.mycss.container.footer-background {
+  padding-top: 30px;
+  padding-bottom: 75px;
+}
+
+.ui.menu.mycss.middlemenu {
+  padding: 0 24rem;
+}
+
+.ui.mycss.left.column.spacing {
+  padding-left: 75px;
+}
+
+.ui.mycss.center.column.spacing {
+  padding: 0 75px;
+}
+
+.ui.mycss.right.column.spacing {
+  padding-right: 75px;
+}
+
+.ui.mycss.no-margin-left-side {
+  margin-left: 0;
+}
+
+.ui.mycss.no-margin-right-side {
+  margin-right: 0;
+}
